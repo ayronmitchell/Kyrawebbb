@@ -1,5 +1,1 @@
-path:/(^|\/)README\.md$/
-+import app.cash.sqldelight
-sqldelight
-databases
-+import kotlin.Boolean;
+
